@@ -1,0 +1,38 @@
+Project Site: https://github.com/Microsoft/mssql-jdbc
+
+Git repository: https://github.com/Microsoft/mssql-jdbc.git
+
+Downloads: 
+		https://github.com/Microsoft/mssql-jdbc/releases
+		
+		https://github.com/Microsoft/mssql-jdbc/releases/download/v6.1.7/mssql-jdbc-6.1.7.jre7.preview.jar
+		https://github.com/Microsoft/mssql-jdbc/releases/download/v6.1.7/mssql-jdbc-6.1.7.jre8.preview.jar
+		
+LICENSE:
+		The Microsoft JDBC Driver for SQL Server is licensed under the MIT license. See the LICENSE file for more details.
+		
+        https://raw.githubusercontent.com/Microsoft/mssql-jdbc/master/LICENSE  
+		
+
+Documentation:
+		
+		https://docs.microsoft.com/en-us/sql/connect/jdbc/getting-started-with-the-jdbc-driver
+		
+		
+Maven dependency entry:
+
+		Stable:
+		
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>mssql-jdbc</artifactId>
+			<version>6.1.0.jre8</version>
+		</dependency>
+		
+		OR Preview:
+		
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>mssql-jdbc</artifactId>
+			<version>6.1.7.jre8-preview</version>
+		</dependency>

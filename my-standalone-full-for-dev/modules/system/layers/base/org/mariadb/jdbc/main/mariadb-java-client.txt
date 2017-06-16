@@ -1,0 +1,29 @@
+Project Site: https://downloads.mariadb.org/connector-java/
+
+Git repository: https://github.com/MariaDB/mariadb-connector-j.git
+
+Downloads: 
+		https://downloads.mariadb.org/connector-java/2.0.2/
+		https://github.com/MariaDB/mariadb-connector-j
+		
+LICENSE:
+		 	
+	MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases using the standard JDBC API. The client library is LGPL licensed.
+		
+    https://mariadb.com/kb/en/mariadb/about-mariadb-connector-j/+license/
+		
+
+Documentation:
+		
+		https://github.com/MariaDB/mariadb-connector-j/blob/master/documentation/use-mariadb-connector-j-driver.creole
+		
+		
+Maven dependency entry:
+
+		Stable:
+		
+		<dependency>
+			<groupId>org.mariadb.jdbc</groupId>
+			<artifactId>mariadb-java-client</artifactId>
+			<version>2.0.2</version>
+		</dependency>

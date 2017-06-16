@@ -1,0 +1,29 @@
+Project Site: http://jtds.sourceforge.net/index.html
+
+SVN repository: svn checkout https://svn.code.sf.net/p/jtds/code/trunk jtds-code
+
+Downloads: 
+		https://sourceforge.net/projects/jtds/files/jtds/1.3.1/
+		
+LICENSE:
+		 	
+	jTDS is Free Software. jTDS is made available under the terms of the GNU Lesser General Public License.
+		
+        http://jtds.sourceforge.net/license.html  
+		
+
+Documentation:
+		
+		http://jtds.sourceforge.net/doc.html
+		http://jtds.sourceforge.net/links.html
+		
+		
+Maven dependency entry:
+
+		Stable:
+		
+		<dependency>
+			<groupId>net.sourceforge.jtds</groupId>
+			<artifactId>jtds</artifactId>
+			<version>1.3.1</version>
+		</dependency>
