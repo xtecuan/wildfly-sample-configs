@@ -1,0 +1,8 @@
+connect 127.0.0.1
+ 
+batch
+
+/subsystem=mail/mail-session=Office365/server=smtp/:add(outbound-socket-binding-ref=mail-smtp-office365,password=Theramones123$$$8,username=julianr@iadb.org)
+
+
+run-batch

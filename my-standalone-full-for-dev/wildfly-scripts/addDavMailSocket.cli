@@ -1,0 +1,8 @@
+connect 127.0.0.1
+ 
+batch
+
+/socket-binding-group=standard-sockets/remote-destination-outbound-socket-binding=mail-smtp-office365/:add(host=localhost,port=1025,fixed-source-port=false)
+
+
+run-batch

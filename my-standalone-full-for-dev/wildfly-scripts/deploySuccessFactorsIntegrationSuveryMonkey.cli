@@ -1,0 +1,7 @@
+connect 127.0.0.1
+ 
+batch
+
+deploy C:/Work/JavaProjects_New/KNL-IT-Support-Projects/successFactors-integration-surveymonkey-voffering/target/successFactors-integration-surveymonkey-voffering.war
+
+run-batch

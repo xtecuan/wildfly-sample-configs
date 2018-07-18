@@ -1,0 +1,7 @@
+connect 127.0.0.1
+ 
+batch
+
+deploy C:/Work/JavaProjects_New/KNL-IT-Support-Projects/successFactors-integration-h2-database-service/target/successFactors-integration-h2-database-service-1.0-SNAPSHOT.war
+
+run-batch

@@ -1,0 +1,7 @@
+connect 127.0.0.1
+ 
+batch
+
+deploy C:/Work/Java/davmail/davmail/davmail.war
+
+run-batch
